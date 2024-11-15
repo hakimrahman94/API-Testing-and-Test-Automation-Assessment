@@ -10,4 +10,8 @@ To load the file,
 
 Assessment 2 = Automation Testing
 To load the file,
-1. 
+1. Clone the repository with command "Git clone https://github.com/yourusername/yourrepository.git"
+2. Change into the project directory with command "cd yourrepository"
+3. Install required libraries with command "pip install -r requirements.txt"
+4. Run the script with command "python TestAutomation.py"
+5. The final product of the script is 2 screenshots (1 contain the information input, 1 contain the output of the Qoute)
