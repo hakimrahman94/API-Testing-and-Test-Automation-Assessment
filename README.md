@@ -14,4 +14,4 @@ To load the file,
 2. Change into the project directory with command "cd API-Testing-and-Test-Automation-Assessment"
 3. Install required libraries with command "pip install -r requirements.txt"
 4. Run the script with command "python TestAutomation.py"
-5. The final product of the script is 2 screenshots (1 contain the information input, 1 contain the output of the Qoute)
+5. The final product of the script is 2 screenshots (1 contain the information input, 1 contain the output of the Quote)
